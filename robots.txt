@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://nimble-rivet.github.io/sitemap.xml
